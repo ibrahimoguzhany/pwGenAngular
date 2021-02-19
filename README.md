@@ -1,4 +1,4 @@
-# Pw https://pw-gen-angular.vercel.app/
+# Here you can preview PwGen https://pw-gen-angular.vercel.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
